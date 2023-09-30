@@ -19,6 +19,6 @@ I am currently working on automated website fuzzing <br>I love scripting and cod
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=The Terminal&icon=6&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Terminal127&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
