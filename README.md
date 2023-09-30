@@ -1,4 +1,4 @@
-[![MasterHead](https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-9.gif)]
+[![MasterHead](https://media.tenor.com/zEzrCBd_6i8AAAAd/hacker%C4%B1m-hacker.gif)]
 
 # 💫 About Me:
 I am currently working on automated website fuzzing <br>I love scripting and coding
