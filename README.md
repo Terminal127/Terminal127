@@ -16,7 +16,7 @@ I am currently working on automated website fuzzing <br>I love scripting and cod
 ![](https://github-readme-stats.vercel.app/api?username=Terminal127&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <img align="right" alt="coding" width="300" src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Terminal127&theme=dark&hide_border=false)<br/>
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/zEzrCBd_6i8AAAAd/hacker%C4%B1m-hacker.gif">
+<img align="right" alt="coding" width="300" src="https://i.cdn.turner.com/money/technology/superhero-hackers/confessions-of-a-hacktivist/media/animated-gifs/hacktivist_scn03_120315.gif">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Terminal127&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
