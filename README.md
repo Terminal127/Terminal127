@@ -1,4 +1,4 @@
-[![MasterHead](https://giffiles.alphacoders.com/120/120100.gif)]
+![MasterHead](https://giffiles.alphacoders.com/120/120100.gif)
 
 # 💫 About Me:
 I'm currently immersed in the world of CI/CD pipelines <br>DevOps, DevSecOps and Cloud Enthusiast <br> I particularly enjoy the thrill of uncovering privilege escalation vulnerabilities and SQL injections, making the digital landscape safer one step at a time
