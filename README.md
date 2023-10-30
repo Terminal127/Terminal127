@@ -1,7 +1,7 @@
 [![MasterHead](https://giffiles.alphacoders.com/120/120100.gif)]
 
 # 💫 About Me:
-I am currently working on automated website fuzzing <br>I love scripting and coding
+I'm currently immersed in the world of CI/CD pipelines <br>DevOps, DevSecOps and Cloud Enthusiast <br> I particularly enjoy the thrill of uncovering privilege escalation vulnerabilities and SQL injections, making the digital landscape safer one step at a time
 
 
 ## 🌐 Socials:
