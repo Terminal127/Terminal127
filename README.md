@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/f9/21/88/f921885903c54c104c270a275bbc62bf.gif" width="800" height="300">
+<img src="https://i.pinimg.com/originals/f9/21/88/f921885903c54c104c270a275bbc62bf.gif" width="800" height="350">
 
 
 # 💫 About Me:
