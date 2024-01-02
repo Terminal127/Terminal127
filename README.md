@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/e2/6c/90/e26c90b8f8737870a09bbad47538522c.gif)
+![MasterHead](https://i.pinimg.com/originals/f9/21/88/f921885903c54c104c270a275bbc62bf.gif)
 
 # 💫 About Me:
 I'm currently immersed in the world of CI/CD pipelines <br>DevOps, DevSecOps and Cloud Enthusiast <br> I particularly enjoy the thrill of uncovering privilege escalation vulnerabilities and SQL injections, making the digital landscape safer one step at a time <br>Linux holds a special place in my heart, and I'm a devoted enthusiast of all its distributions.
