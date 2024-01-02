@@ -15,7 +15,7 @@ I'm currently immersed in the world of CI/CD pipelines <br>DevOps, DevSecOps and
 
 
 # 📊 GitHub Stats:
-<img align=right src="https://i.pinimg.com/564x/c3/d1/ae/c3d1aed747af32c69f5dc079eeec03fa.jpg" width="300" height="550">
+<img align=right src="https://i.pinimg.com/564x/c3/d1/ae/c3d1aed747af32c69f5dc079eeec03fa.jpg" width="300" height="500">
 
 ![](https://github-readme-stats.vercel.app/api?username=Terminal127&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Terminal127&theme=dark&hide_border=false)<br/>
