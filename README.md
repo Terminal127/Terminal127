@@ -1,4 +1,5 @@
-<img src="https://i.pinimg.com/originals/f9/21/88/f921885903c54c104c270a275bbc62bf.gif" width="800" height="350">
+<img src="https://64.media.tumblr.com/5fa433726a11bf2d361a795f113b1f0c/dc48f049e523c2fc-21/s500x750/1640a068087ca3cab85c5c004cf92a99581ccdc3.gifv" width="200" height="100">
+
 
 
 # 💫 About Me:
