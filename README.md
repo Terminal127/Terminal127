@@ -21,7 +21,7 @@ I'm currently immersed in the world of CI/CD pipelines <br>DevOps, DevSecOps and
 <br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Terminal127&theme=dark&hide_border=false)
 <br/><br/>
-<img align=left align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terminal127&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" height="400" align="left" style="vertical-align: top;">
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Terminal127&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
