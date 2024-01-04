@@ -27,11 +27,11 @@ I'm currently immersed in the world of CI/CD pipelines <br>DevOps, DevSecOps and
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Terminal127&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Terminal127&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Terminal127&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Terminal127&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 ### ✍️ Random Dev Quote
