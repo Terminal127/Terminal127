@@ -11,7 +11,7 @@ I'm currently immersed in the world of CI/CD pipelines <br>DevOps, DevSecOps and
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,python,github,git,vim,linux,powershell,docker,jenkins,ruby,rust,py,js,kubernetes,nginx,aws,bash,c,cpp,go,gitlab,md,neovim,selenium,vscode,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,github,git,vim,linux,powershell,docker,jenkins,ruby,rust,py,js,kubernetes,nginx,aws,bash,c,cpp,go,gitlab,md,neovim,selenium,vscode,regex,ai,html)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
