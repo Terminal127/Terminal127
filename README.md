@@ -32,6 +32,8 @@ I'm currently immersed in the world of CI/CD pipelines <br>DevOps, DevSecOps and
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Terminal127&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)</br>
+
+## 👀 Views
 [![](https://visitcount.itsvg.in/api?id=Terminal127&icon=2&color=8)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
