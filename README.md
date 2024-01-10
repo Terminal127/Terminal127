@@ -40,6 +40,7 @@ I'm currently immersed in the world of CI/CD pipelines <br>DevOps, DevSecOps and
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=terminal127&theme=dark" alt="terminal127" /></p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
