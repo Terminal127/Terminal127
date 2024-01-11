@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-I'm currently immersed in the world of CI/CD pipelines <br>DevOps, DevSecOps and Cloud Enthusiast <br> I particularly enjoy the thrill of uncovering privilege escalation vulnerabilities and SQL injections, making the digital landscape safer one step at a time <br>Linux holds a special place in my heart, and I'm a devoted enthusiast of all its distributions.
+I'm currently immersed in the world of CI/CD pipelines <br>DevOps, DevSecOps and Cloud Enthusiast <br> A pseudo weeb who likes to code, sounds pretty wild <br> A devoted opensourcer
 
 
 ## 🌐 Socials:
