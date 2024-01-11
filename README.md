@@ -1,7 +1,7 @@
 <img src="https://www.rustacean.net/more-crabby-things/dancing-ferris.gif" width="800" height="300">
+<br></br>
 
-
-#[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5051&pause=500&color=F7F7F7&background=25FFAD00&center=true&random=true&width=435&separator=%3D&lines=console.log('t3rm!nal+is+here')%3Dprintln!(%22t3rm!nal+is+here%22);%3Dfmt.Printf(%22t3rm!nal+is+here%22)%3DSystem.out.println(%22t3rm!nal+is+here%22);%3Dstd%3A%3Acout+%3C%3C+%22t3rm!nal+is+here%22;%3Dprint(%22t3rm!nal+is+here%22))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5051&pause=500&color=F7F7F7&background=25FFAD00&center=true&random=true&width=435&separator=%3D&lines=console.log('t3rm!nal+is+here')%3Dprintln!(%22t3rm!nal+is+here%22);%3Dfmt.Printf(%22t3rm!nal+is+here%22)%3DSystem.out.println(%22t3rm!nal+is+here%22);%3Dstd%3A%3Acout+%3C%3C+%22t3rm!nal+is+here%22;%3Dprint(%22t3rm!nal+is+here%22))](https://git.io/typing-svg)
 
 
 
