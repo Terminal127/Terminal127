@@ -19,7 +19,7 @@ I'm currently immersed in the world of CI/CD pipelines <br>DevOps, DevSecOps and
 
 ![](https://github-readme-stats.vercel.app/api?username=Terminal127&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) 
 <br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=terminal127&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=terminal127&theme=tokyonight)
 <br/><br/>
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Terminal127&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
