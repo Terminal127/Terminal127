@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-I'm currently immersed in the world of CI/CD pipelines <br>DevOps, DevSecOps and Cloud Enthusiast <br> A pseudo weeb who likes to code, sounds pretty wild <br> A devoted opensourcer
+I'm currently immersed in the world of CI/CD pipelines <br>DevOps, DevSecOps and Cloud Enthusiast <br> A pseudo weeb who likes to code, sounds pretty wild I know<br> A devoted opensourcer
 
 
 ## 🌐 Socials:
