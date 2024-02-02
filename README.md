@@ -31,7 +31,7 @@ I'm currently immersed in the world of CI/CD pipelines <br>DevOps, DevSecOps and
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Terminal127&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)</br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=terminal127&bg_color=000000&color=9e4c98&line=9e4c98&point=ce8888&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=terminal127&theme=tokyonight&line=9e4c98&point=ce8888&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 👀 Views
 [![](https://visitcount.itsvg.in/api?id=Terminal127&icon=2&color=8)](https://visitcount.itsvg.in)
