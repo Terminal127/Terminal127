@@ -1,7 +1,7 @@
 <img src="https://64.media.tumblr.com/b1e9a08477bfcb87fb162b90800548c5/dc48f049e523c2fc-8e/s540x810/a16aeb96d71bc1b1c66b00e62bfeac3365c5457a.gif" width="800" height="300">
 
 # 💫 About Me:
-I'm currently immersed in the world of CI/CD pipelines <br>DevOps, DevSecOps and Cloud Enthusiast <br> A pseudo weeb -_- <br> A devoted opensourcer who likes to code for fun 
+I'm currently immersed in the world of CI/CD pipelines <br>DevOps, DevSecOps and Cloud Enthusiast <br> Currently interested in Deep Learing <br> A devoted opensourcer who likes to code for fun 
 
 
 ## 🌐 Socials:
