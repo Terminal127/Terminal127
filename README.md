@@ -1,4 +1,4 @@
-<img src="https://64.media.tumblr.com/024d00a2a0337cb55bb72a8d57aa3966/ba6bbdfb52ae0db0-5c/s540x810/18c4346b45d7a09c950ba34a8e63a5574c330c2c.gif" width="800" height="300">
+<img src="https://64.media.tumblr.com/3f00f22934f70eb93139c25aa8c800b1/9136237ef821d82a-7a/s540x810/3cf8b1697909961db0a267e14108946b6c4cc72f.gifv" width="800" height="300">
 
 # 💫 About Me:
 I'm currently deeply engaged in the realm of machine learning and App Dev, CI/CD is my ex 😒  <br>DevOps, DevSecOps and Cloud Enthusiast <br> Currently interested in Deep Learing <br> A devoted opensourcer who likes to code for fun 
