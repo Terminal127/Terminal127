@@ -9,7 +9,7 @@ I'm currently deeply engaged in the realm of machine learning and App Dev, CI/CD
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,python,ruby,rust,js,c,cpp,go,html,lua,md,selenium,github,gitlab,git,vim,neovim,linux,arch,bash,ansible,powershell,docker,jenkins,kubernetes,nginx,aws,prometheus,grafana,vscode,regex,terraform,cmake,nodejs,expressjs,bots,azure,mongodb,flask,openshift,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,ruby,rust,js,c,cpp,go,html,lua,md,selenium,github,gitlab,git,vim,neovim,linux,arch,ubuntu,debian,bash,ansible,postman,powershell,docker,jenkins,kubernetes,nginx,aws,gcp,prometheus,grafana,vscode,regex,terraform,cmake,nodejs,expressjs,bots,azure,mongodb,flask,openshift,androidstudio)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
