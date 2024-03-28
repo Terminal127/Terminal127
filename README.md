@@ -5,7 +5,7 @@ I'm currently deeply engaged in the realm of machine learning and App Dev, CI/CD
 
 
 ## 🌐 Socials:
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/the-terminal-639886290) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/life_.in._graphite)[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/@TTerminal86238) [![Linkedin](https://skillicons.dev/icons?i=mastodon)](https://mastodon.social/@Terminal127@mastodon.social) 
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/the-terminal-639886290)  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/life_.in._graphite)  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/@TTerminal86238)  [![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://mastodon.social/@Terminal127@mastodon.social) 
 
 
 # 💻 Tech Stack:
