@@ -1,7 +1,9 @@
 <img src="https://64.media.tumblr.com/3f00f22934f70eb93139c25aa8c800b1/9136237ef821d82a-7a/s540x810/3cf8b1697909961db0a267e14108946b6c4cc72f.gifv" width="800" height="300">
 
 # 💫 About Me:
-I'm currently deeply engaged in the dark realm of Arch, CI/CD is my ex 😒  <br>DevOps, DevSecOps and Cloud Enthusiast <br> Currently interested in Deep Learing 🫠<br> A devoted opensourcer who likes to code for fun<br> Anime 大好き 😊
+Greetings! I am currently immersed in the depths of Arch Linux, with a focus on DevOps, DevSecOps, and Cloud. My journey began with CI/CD, but now my heart beats for Deep Learning. I am a devoted open-source enthusiast who enjoys coding for fun and learning something new every day.
+
+When I'm not coding, you'll find me enjoying anime. Anime 大好き 😊
 
 
 ## 🌐 Socials:
