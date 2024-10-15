@@ -3,10 +3,6 @@
 # 💫 About Me:
 I'm a passionate open-source enthusiast and a Arch user 💀. I've embraced Hyprland as my daily driver window manager.  You could say I'm *really* into theming —  especially anything Tokyo Night!  I love tweaking and tinkering with my system, pushing the boundaries of what's possible (just like any respectable Arch user 😉). I'm also exploring DevOps, DevSecOps, and Cloud Computing, with a growing interest in the magic of Deep Learning.  I'm always eager to learn something new and code for the pure joy of it!  When I'm not immersed in the digital world, I'm an anime aficionado.
 
-## 🌐 Socials:
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/the-terminal-639886290)  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/life_.in._graphite)  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/@TTerminal86238)  [![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://mastodon.social/@Terminal127@mastodon.social) 
-
-
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,python,ruby,rust,js,c,cpp,go,html,lua,md,selenium,github,gitlab,git,vim,neovim,linux,arch,ubuntu,debian,bash,ansible,postman,powershell,docker,jenkins,kubernetes,nginx,aws,gcp,prometheus,grafana,vscode,regex,terraform,cmake,nodejs,expressjs,bots,azure,mongodb,flask,openshift,androidstudio,sklearn,tensorflow,pytorch)](https://skillicons.dev)
 
@@ -26,21 +22,10 @@ I'm a passionate open-source enthusiast and a Arch user 💀. I've embraced Hypr
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Terminal127&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Terminal127&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)</br>
-
 [![Terminal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=terminal127&theme=tokyo-night&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## 👀 Views
 [![](https://visitcount.itsvg.in/api?id=Terminal127&icon=2&color=8)](https://visitcount.itsvg.in)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
