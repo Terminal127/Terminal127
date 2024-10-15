@@ -1,4 +1,4 @@
-<img src="https://64.media.tumblr.com/3f00f22934f70eb93139c25aa8c800b1/9136237ef821d82a-7a/s540x810/3cf8b1697909961db0a267e14108946b6c4cc72f.gifv" width="800" height="300">
+<img src="https://github.com/user-attachments/assets/bde19232-a105-44b7-a5e1-68c464e0a9fc" width="800" height="300">
 
 # 💫 About Me:
 I'm a passionate open-source enthusiast and a Arch user 💀. I've embraced Hyprland as my daily driver window manager.  You could say I'm *really* into theming —  especially anything Tokyo Night!  I love tweaking and tinkering with my system, pushing the boundaries of what's possible (just like any respectable Arch user 😉). I'm also exploring DevOps, DevSecOps, and Cloud Computing, with a growing interest in the magic of Deep Learning.  I'm always eager to learn something new and code for the pure joy of it!  When I'm not immersed in the digital world, I'm an anime aficionado.
