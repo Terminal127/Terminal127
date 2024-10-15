@@ -8,25 +8,20 @@ I'm a passionate open-source enthusiast and a Arch user 💀. I've embraced Hypr
 
 
 # 📊 GitHub Stats:
+<img align=right src="https://www.gifcen.com/wp-content/uploads/2022/03/yuta-okkotsu-gif-8.gif" width="325" height="530">
 
-<div align="center">
-  <img align="right" src="https://www.gifcen.com/wp-content/uploads/2022/03/yuta-okkotsu-gif-8.gif" width="325" height="530">
+![](https://github-readme-stats.vercel.app/api?username=Terminal127&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) 
+<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=terminal127&theme=tokyonight)
+<br/><br/>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Terminal127&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  ![](https://github-readme-stats.vercel.app/api?username=Terminal127&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-
-  <br/><br/>
-
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=terminal127&theme=tokyonight)
-
-  <br/><br/>
-
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Terminal127&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
 
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Terminal127&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
 
 [![Terminal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=terminal127&theme=tokyo-night&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
@@ -34,4 +29,7 @@ I'm a passionate open-source enthusiast and a Arch user 💀. I've embraced Hypr
 [![](https://visitcount.itsvg.in/api?id=Terminal127&icon=2&color=8)](https://visitcount.itsvg.in)
 
 
----
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
