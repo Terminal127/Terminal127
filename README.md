@@ -8,12 +8,19 @@ I'm a passionate open-source enthusiast and a Arch user 💀. I've embraced Hypr
 
 
 # 📊 GitHub Stats:
-<img align=right src="https://www.gifcen.com/wp-content/uploads/2022/03/yuta-okkotsu-gif-8.gif" width="325" height="530">
-
-![](https://github-readme-stats.vercel.app/api?username=Terminal127&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) 
-<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=terminal127&theme=tokyonight)
-<br/><br/>
+<div>
+ <div align="center"
+ <img align=right src="https://www.gifcen.com/wp-content/uploads/2022/03/yuta-okkotsu-gif-8.gif" width="325" height="530">
+ </div>
+ <div align="center"
+ ![](https://github-readme-stats.vercel.app/api?username=Terminal127&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) 
+ </div>
+ <br/><br/>
+ <div align="center"
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=terminal127&theme=tokyonight)
+ </div>
+ <br/><br/>
+</div>
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Terminal127&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
