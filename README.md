@@ -1,10 +1,7 @@
 <img src="https://64.media.tumblr.com/3f00f22934f70eb93139c25aa8c800b1/9136237ef821d82a-7a/s540x810/3cf8b1697909961db0a267e14108946b6c4cc72f.gifv" width="800" height="300">
 
 # 💫 About Me:
-Greetings! I am currently immersed in the depths of Arch Linux, with a focus on DevOps, DevSecOps, and Cloud. My journey began with CI/CD, but now my heart beats for Deep Learning. I am a devoted open-source enthusiast who enjoys coding for fun and learning something new every day.
-
-When I'm not coding, you'll find me enjoying anime. Anime 大好き 😊
-
+I'm a passionate open-source enthusiast and a Arch user 💀. I've embraced Hyprland as my daily driver window manager.  You could say I'm *really* into theming —  especially anything Tokyo Night!  I love tweaking and tinkering with my system, pushing the boundaries of what's possible (just like any respectable Arch user 😉). I'm also exploring DevOps, DevSecOps, and Cloud Computing, with a growing interest in the magic of Deep Learning.  I'm always eager to learn something new and code for the pure joy of it!  When I'm not immersed in the digital world, I'm an anime aficionado.
 
 ## 🌐 Socials:
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/the-terminal-639886290)  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/life_.in._graphite)  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/@TTerminal86238)  [![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://mastodon.social/@Terminal127@mastodon.social) 
