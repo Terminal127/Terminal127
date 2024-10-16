@@ -47,11 +47,11 @@ EOF
 
 echo "echo \"Remember, in the world of tech, the only constant is change... and my love for Arch! 💘\""
 ```
+<div>
+<img src="https://github.com/user-attachments/assets/866a64e5-ceb0-45ed-aa8a-26b9c7a17e02" width="800" height="200">
+</div>
 
-
-# 📊 GitHub Stats:
-
-<div align="center">
+<div>
   <table>
     <tr>
       <td align="center">
@@ -64,14 +64,21 @@ echo "echo \"Remember, in the world of tech, the only constant is change... and 
   </table>
 </div>
 
-
+<div align="left">
+<img src="https://github.com/user-attachments/assets/f6e2c012-6d44-478d-9c13-e92261b918ec" width="800" height="200">
+</div>
 
 ## 🏆 GitHub Trophies
-<div align="center">
+<div>
  <img src="https://github-profile-trophy.vercel.app/?username=Terminal127&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Trophies"/>
 </div>
 
-[![Terminal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=terminal127&theme=tokyo-night&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<div>
+<img src="https://github.com/user-attachments/assets/e142ee0a-0022-4b84-981b-d8b75229d021" width="800" height="200">
+</div>
+<div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=terminal127&theme=tokyo-night&area=true"
+</div>
 
 ## 👀 Views
 [![](https://visitcount.itsvg.in/api?id=Terminal127&icon=2&color=8)](https://visitcount.itsvg.in)
