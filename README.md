@@ -2,7 +2,9 @@
 <img src="https://github.com/user-attachments/assets/bde19232-a105-44b7-a5e1-68c464e0a9fc" width="800" height="400">
 </div>
 
-# ./about.sh:
+<div>
+<img src="https://github.com/user-attachments/assets/3d56c10a-3eda-4f24-be24-0f04f8e1a9c2" width="800" height="200">
+</div>
 
 ```rust
 #!/bin/bash
